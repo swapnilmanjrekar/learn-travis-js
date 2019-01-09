@@ -1,0 +1,17 @@
+{
+  "name": "learn-travis-js-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.sum": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
