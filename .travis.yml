@@ -1,3 +1,7 @@
 language: node_js
 node_js:
   - "node"
+deploy:
+  provider: npm
+  email: swapnil@calderawp.com
+  api_key: acc172af-831a-45b8-8616-2ea645a4cebb
